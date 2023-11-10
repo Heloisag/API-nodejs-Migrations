@@ -1,0 +1,26 @@
+SRC ou SOURCE
+
+-Tudo que estiver dentro desta pasta significa que faz parte da aplicação.
+
+O que estiver forá desta pastas pode ser considerado como: - Um arquivo de configuração de alguma biblioteca;
+
+CHAT GPT
+
+Ela é usada para armazenar o código-fonte principal do projeto. Aqui estão alguns detalhes importantes sobre esta pasta:
+
+Organização do Código-Fonte:
+A pasta src é onde você geralmente coloca todos os arquivos de código-fonte do seu projeto. Isso inclui arquivos JavaScript, TypeScript, CSS, HTML (para projetos web), e outros arquivos de código relacionados ao seu projeto. A ideia é manter o código-fonte organizado e separado de outros tipos de arquivos, como documentação, arquivos de configuração, testes, entre outros.
+
+Facilita a Manutenção:
+Ter uma pasta dedicada para o código-fonte torna mais fácil para os desenvolvedores entenderem a estrutura do projeto e encontrarem os arquivos que precisam editar. Isso é especialmente útil em projetos maiores e em ambientes de equipe, onde a clareza na estrutura do projeto é crucial.
+
+Construção e Compilação:
+Em muitos projetos, especialmente aqueles que usam ferramentas de construção ou compilação (como Webpack, Babel, TypeScript, etc.), a pasta src contém os arquivos originais que serão compilados ou transformados em arquivos finais para produção. Por exemplo, em um projeto React, os arquivos JSX na pasta src são compilados em JavaScript puro que pode ser executado no navegador.
+
+Padrão de Projeto:
+Embora não seja uma regra rígida, usar uma pasta src é uma prática padrão na indústria. Ela ajuda a manter a consistência entre diferentes projetos e facilita para novos desenvolvedores se adaptarem rapidamente ao projeto.
+
+Flexibilidade:
+A estrutura exata dentro da pasta src pode variar dependendo das necessidades específicas do projeto e das preferências da equipe. Por exemplo, você pode ter subpastas para componentes, utilitários, serviços, estilos, etc.
+
+Em resumo, a pasta src é um elemento fundamental na organização e estruturação de muitos projetos de software, ajudando a manter o código-fonte organizado, acessível e fácil de manter.
